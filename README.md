@@ -4,7 +4,6 @@
 
 Soy Gorka, desarrollador de aplicaciones web.
 
-
 ### Sobre mí
 
 ---------------------------------------
@@ -14,6 +13,7 @@ Trabajo como desarrollador web desde hace casi 10 años.
 En todo este tiempo he formado parte en el desarrollo de todo tipo de proyectos web.
 
 Actualmente, centrado especialmente, en aprender todo sobre Código Limpio, SOLID, Patrones de Diseño, TDD, Arquitectura Hexagonal, CQRS, DDD, etc. 
+
 
 ### Habilidades
 
@@ -28,8 +28,6 @@ Actualmente, centrado especialmente, en aprender todo sobre Código Limpio, SOLI
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
 [![mongodb](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)]()
-
-
 
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
 [![yarm](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)]()
