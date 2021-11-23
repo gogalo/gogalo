@@ -12,7 +12,7 @@ Trabajo como desarrollador web desde hace casi 10 años.
 
 En todo este tiempo he formado parte en el desarrollo de todo tipo de proyectos web.
 
-Actualmente, centrado especialmente, en aprender todo sobre Código Limpio, SOLID, Patrones de Diseño, TDD, Arquitectura Hexagonal, CQRS, DDD, etc. 
+Actualmente, centrado especialmente en adquirir/afianzar conocimientos, en todo lo relacionado con el Código Limpio, SOLID, Patrones de Diseño, TDD, Arquitectura Hexagonal, CQRS, DDD, etc. 
 
 
 ### Habilidades
